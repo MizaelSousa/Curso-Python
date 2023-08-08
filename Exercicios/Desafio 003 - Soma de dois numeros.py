@@ -1,4 +1,4 @@
-# ex003 - Soma de dois numero e print do resultado
+#Desafio003 - Soma de dois numero e print do resultado
 
 print('Informe doids numero e tenha o resultado da soma deles')
 
